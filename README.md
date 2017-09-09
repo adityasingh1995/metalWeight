@@ -2,7 +2,7 @@ Instructions:
 
 Method 1: 
 
-1> Clone the repositoryt by running the following command in the command line
+1> Clone the repository by running the following command in the command line
 
 	git clone https://github.com/adityasingh1995/metalWeight
 
